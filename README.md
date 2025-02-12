@@ -99,9 +99,6 @@ A simple music player built with Python and Tkinter, using **pygame** for audio 
 - Click on a track to start playing.
 - Use the controls to **pause**, **resume**, **skip**, or **enable shuffle/repeat**.
 
-## Contact
-For support or feature requests, feel free to [send an email](mailto:mullerncybert@gmail.com?subject=Music%20Player%20Support&body=Hello,%20I%20have%20a%20question%20about%20the%20music%20player...).
-
 
 
 ## License
@@ -112,5 +109,10 @@ This project is open-source and free to use under the MIT License.
 
 Developed by 
 SAMSON AKACH FOR LINUX USERS
+## Contact
+For support or feature requests, feel free to [send an email](mailto:mullerncybert@gmail.com?subject=Music%20Player%20Support&body=Hello,%20I%20have%20a%20question%20about%20the%20music%20player...).
 
-[mullerncybert@gmail.com](mailto\:mullerncybert@gmail.com)&#x20;
+
+
+
+
